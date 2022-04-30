@@ -1,0 +1,4 @@
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const REGISTER_USER = 'REGISTER_USER';
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
